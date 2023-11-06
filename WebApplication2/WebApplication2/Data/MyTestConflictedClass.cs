@@ -12,4 +12,9 @@ public class MyTestConflictedClass
     {
         return 5;
     }
+
+    public void WriteLine()
+    {
+        Console.WriteLine("Hello world");
+    }
 }
