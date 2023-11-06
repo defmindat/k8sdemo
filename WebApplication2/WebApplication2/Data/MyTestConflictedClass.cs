@@ -4,6 +4,7 @@ public class MyTestConflictedClass
 {
     public static MyTestConflictedClass CreateInstance()
     {
+        var init = 5 + 6;
         return new MyTestConflictedClass();
     }
 
