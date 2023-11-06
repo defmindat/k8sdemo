@@ -17,4 +17,9 @@ public class MyTestConflictedClass
     {
         Console.WriteLine("Hello world");
     }
+
+    public void Interactive()
+    {
+        Console.WriteLine("ReadWrite");
+    }
 }
