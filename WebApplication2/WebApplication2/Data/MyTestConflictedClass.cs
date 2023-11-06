@@ -6,4 +6,9 @@ public class MyTestConflictedClass
     {
         return new MyTestConflictedClass();
     }
+
+    public int GetBase()
+    {
+        return 5;
+    }
 }
